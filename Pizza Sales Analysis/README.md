@@ -10,7 +10,7 @@ The primary dataset used for this project is the "pizza_sales.csv", containing d
 
 ### Tools
 
-- Excel - Datasets [Download here]()
+- Excel - Datasets [Download here](https://github.com/ashtamiraj/PowerBI_Projects/blob/main/Pizza%20Sales%20Analysis/pizza_sales.csv)
 - SQL - For querying and analyzing the data.
 - SQL Server Management Studio (SSMS) - For executing SQL queries and managing the database.
 - Power BI - For data visualization and dashboard creation.
